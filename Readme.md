@@ -34,5 +34,5 @@ To enter data, we will work with the scanner class and with if else conditions
 3. Recursively apply sorting to two sub arrays.
 
 ### illustrative example
-
-![](../../Pictures/Quicksort-in-Java-example-fast.gif)
+![](../../AppData/Local/Temp/Quicksort-in-Java-example-fast.gif)
+![illustrative example](../../Pictures/Quicksort-in-Java-example-fast.gif)
