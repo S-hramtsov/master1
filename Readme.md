@@ -25,3 +25,14 @@ To enter data, we will work with the scanner class and with if else conditions
 |libra       |October    |
 |Scorpio     |November   |
 |Sagittarius |December   |
+
+# Quicksort algorithm
+
+## Step-by-step description of the operation of the quick sort algorithm
+1. Select a reference element from the array. Usually the reference element is the middle element.
+2. Divide the array into two sub arrays: elements smaller than the reference and elements larger than the reference.
+3. Recursively apply sorting to two sub arrays.
+
+### illustrative example
+
+![](../../Pictures/Quicksort-in-Java-example-fast.gif)
