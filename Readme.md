@@ -33,7 +33,7 @@ To enter data, we will work with the scanner class and with if else conditions
 2. Divide the array into two sub arrays: elements smaller than the reference and elements larger than the reference.
 3. Recursively apply sorting to two sub arrays.
 
-#File writer
+# File writer
 
 1. Create the "Person" class by filling it with the necessary data (fields) and adding the "set and get" methods to them.
 2. Create the "Validation" class to check the correctness of the input data.
