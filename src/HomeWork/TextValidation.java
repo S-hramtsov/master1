@@ -1,8 +1,8 @@
 package HomeWork;
 
 public class TextValidation {
-    private static boolean chekForLetter(String name){
-        for (char c : name.toCharArray()){
+    private static boolean chekForLetter(String text){
+        for (char c : text.toCharArray()){
             if (!Character.isLetter(c)){
                 return false;
             }
