@@ -1,4 +1,4 @@
-package HomeWork;
+package filewriter;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class Main {
         ScannerPerson personScanner = new ScannerPerson(person);
         personScanner.fillSecondSurname();
         personScanner.fillFirstName();
-        personScanner.filleFirstPatronymic();
+        personScanner.fillFirstPatronymic();
         personScanner.fillAge();
         personScanner.closeScan();
 

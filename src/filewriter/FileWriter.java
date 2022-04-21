@@ -1,4 +1,4 @@
-package HomeWork;
+package filewriter;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -8,7 +8,7 @@ import static java.nio.file.StandardOpenOption.CREATE_NEW;
 
 public class FileWriter {
 
-    public void writePersonToFile (Person person) {
+    public void writePersonToFile(Person person) {
         String fileName = person.getSurname() + " " + person.getName() + ".txt";
         boolean isExists = Files.exists(Path.of(fileName));
         if (isExists) {
