@@ -40,3 +40,9 @@ To enter data, we will work with the scanner class and with if else conditions
 3. The "ScannerPerson" class is necessary for us to receive the data entered from the user,
 4. The "FileWriter" class assigns a name similar to the user's name to a file,
    creates a file with the extension ".txt" and fills it in line by line.
+
+# Reading and Writing
+1. В параметрах блока "try"  считываем файл ""test_data.txt" путем буферизации и проводим запись данных в новый файл "result_data.txt".
+2. В теле блока "try" задаем цикл на чтения и разбив на массив данных из файла.
+3. В теле цикла "while" задаем условия "if" и передаем параметры для отлова данных по заданным параметрам,  и записываем их в новый фаил
+4. в блоке "catch"  обрабатываем исключение проброшенное из блока"try"
