@@ -42,7 +42,8 @@ To enter data, we will work with the scanner class and with if else conditions
    creates a file with the extension ".txt" and fills it in line by line.
 
 # Reading and Writing
-1. В параметрах блока "try"  считываем файл ""test_data.txt" путем буферизации и проводим запись данных в новый файл "result_data.txt".
-2. В теле блока "try" задаем цикл на чтения и разбив на массив данных из файла.
-3. В теле цикла "while" задаем условия "if" и передаем параметры для отлова данных по заданным параметрам,  и записываем их в новый фаил
-4. в блоке "catch"  обрабатываем исключение проброшенное из блока"try"
+
+1. In the parameters of the "try" block, read the file ""test_data.txt " by buffering and writing data to a new file "result_data.txt ".
+2. In the body of the "try" block, we set a cycle for reading and splitting into an array of data from a file.
+3. In the body of the "while" loop, we set the "if" conditions and pass the parameters for capturing data according to the specified parameters, and write them to a new file
+4. in the "catch" block, we process the exception thrown from the "try" block
