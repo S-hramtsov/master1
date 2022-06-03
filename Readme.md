@@ -48,7 +48,7 @@ To enter data, we will work with the scanner class and with if else conditions
 3. In the body of the "while" loop, we set the "if" conditions and pass the parameters for capturing data according to the specified parameters, and write them to a new file
 4. in the "catch" block, we process the exception thrown from the "try" block
 
-# Fixing practical tasks
+# Fixing practical tasks 
 
-## Task number1
+## Task number 1
 Calculation of the monthly payment on an interest-free installment plan.
