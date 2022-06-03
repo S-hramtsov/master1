@@ -47,3 +47,8 @@ To enter data, we will work with the scanner class and with if else conditions
 2. In the body of the "try" block, we set a cycle for reading and splitting into an array of data from a file.
 3. In the body of the "while" loop, we set the "if" conditions and pass the parameters for capturing data according to the specified parameters, and write them to a new file
 4. in the "catch" block, we process the exception thrown from the "try" block
+
+# Fixing practical tasks
+
+## Task number1
+Calculation of the monthly payment on an interest-free installment plan.
