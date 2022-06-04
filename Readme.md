@@ -51,4 +51,9 @@ To enter data, we will work with the scanner class and with if else conditions
 # Fixing practical tasks 
 
 ## Task number 1
+
 Calculation of the monthly payment on an interest-free installment plan.
+
+## Task number 2
+
+Outputs your first and last name in Latin to the console, and calculates the balance between income and expense.
